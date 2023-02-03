@@ -357,11 +357,10 @@ sponspors icon ends
 .ends{
     width: 700px;
     height: 40px;
-    border:1px solid #FFF4E7;
+    border:1px solid #FFF4E6;
     border-radius:8px;
     font-size:10px;
     top:40px;
     bottom:20px;
     margin-left:160px;
-    background-color: #FFF4E7;
 }
